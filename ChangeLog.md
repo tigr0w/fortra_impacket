@@ -65,7 +65,7 @@ https://github.com/fortra/impacket/commits/master
 
 As always, thanks a lot to all these contributors that make this library better every day:
 
-@0xpaperman, @7own, @aconite33, @aelmosalamy, @alexisbalbachan, @anadrianmanrique, @AndreySolod, @azoxlpf, @bash-c, @blankshiro, @chand-ashok, @cjwatson, @Coontzy1, @Croumi, @CSpanias, @ctjf, @Defte_, @DidierA, @epotseluevskaya, @fulc2um, @gabrielg5, @Gaffner, @Herbenderbler, @i-am-not-an-ai, @john57, @laxaa, @laxa, @maple, @masterDeus, @Mayyhem, @n3rada, @NeffIsBack, @NtAlexio2, @omry99, @pazurro, @plur1bu5, @Q2Flc2FySec, @romern, @r3seh, @rtpt-romankarwacik, @sbuck1, @ThatTotallyRealMyth, @TheFlamingCrab, @tomik92, @Tw1sm.
+@0xpaperman, @7own, @aconite33, @aelmosalamy, @alexisbalbachan, @anadrianmanrique, @AndreySolod, @azoxlpf, @bash-c, @blankshiro, @chand-ashok, @cjwatson, @Coontzy1, @Croumi, @CSpanias, @ctjf, @Dfte, @DidierA, @epotseluevskaya, @fulc2um, @gabrielg5, @gaffner, @herbenderbler, @i-am-not-an-ai, @john57, @laxaa, @laxa, @masterDeus, @Mayyhem, @n3rada, @NeffIsBack, @omry99, @plur1bu5, @Q2Flc2FySec, @Romern, @r3seh, @rtpt-romankarwacik, @sbuck1, @ThatTotallyRealMyth, @TheFlamingCrab, @tomik92, @Tw1sm.
 
 ## Impacket v0.13.0 (Oct 2025): 
 
