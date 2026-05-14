@@ -52,7 +52,7 @@ Getting Impacket
 
 ### Latest version
 
-* Impacket v0.13.0
+* Impacket v0.13.1
 
   [![Python versions](https://img.shields.io/pypi/pyversions/impacket.svg)](https://pypi.python.org/pypi/impacket/)
 
